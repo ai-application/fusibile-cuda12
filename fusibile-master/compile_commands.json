@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ahs/xiaolin/work/PointCloud/GoMVS-main/fusibile-master",
+  "command": "/usr/bin/c++  -I/home/ahs/xiaolin/work/PointCloud/GoMVS-main/fusibile-master/opencv/build/include -I/usr/local/cuda/include -isystem /usr/local/include/opencv4   -std=c++17 -Wall -Wextra -pedantic -Wno-unused-function -fopenmp -std=c++17 -o CMakeFiles/fusibile.dir/main.cpp.o -c /home/ahs/xiaolin/work/PointCloud/GoMVS-main/fusibile-master/main.cpp",
+  "file": "/home/ahs/xiaolin/work/PointCloud/GoMVS-main/fusibile-master/main.cpp"
+}
+]
