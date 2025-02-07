@@ -1,4 +1,5 @@
-# How to build fusibile under new opencv and cuda version, The original code is from: https://github.com/kysucix/fusibile. Thanks the author's contributions in Multi-view Stereo field.
+# How to build fusibile under new opencv and cuda version
+# The original code is from: https://github.com/kysucix/fusibile. Thanks the author's contributions in Multi-view Stereo field.
 1. download the opencv source code, and push into the master root path, like this:
    ![image](https://github.com/user-attachments/assets/8843247c-3b04-4731-b4ba-97e3c12d11c6)
 2. Build the opencv code and generate the so libs, enter the opencv "sources" directory and mkdir build path, enter the build path:
